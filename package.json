@@ -1,0 +1,9 @@
+{
+  "name": "mdns-broadcast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "multicast-dns": "^6.1.1"
+  }
+}
